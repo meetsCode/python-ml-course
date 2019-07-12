@@ -1,0 +1,7 @@
+Cloné el repositorio de Gomila.
+
+git clone https://github.com/meetsCode/python-ml-course.git  
+Luego cree mi propia rama llamada luisRama 
+Lo que no sé es cómo se actualiza la rama de Gomila en mi copia ... tengo que investigarlo.
+Me imagino que el Master sigue siendo de Gomila y aunque yo puedo escribir incluso en esa rama debe ser distinta de la rama de Gomila....
+Me estoy liando.  
